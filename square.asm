@@ -1,6 +1,5 @@
 # Mingkun Nico Xia
 
-
 	.data
 
 prompt:	.asciiz "Enter a positive integer: \n"
